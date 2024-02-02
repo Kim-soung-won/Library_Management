@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sql_connect:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sql_connect_jar</output-path>
+    <root id="archive" name="sql_connect.jar">
+      <element id="module-output" name="sql_connect" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../Program Files/Java/jdk-8.0.362.9-hotspot/jre/lib/ext/sqljdbc42.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
